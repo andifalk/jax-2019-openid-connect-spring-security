@@ -4,6 +4,8 @@ Talk and demos for [JAX conference talk](https://jax.de/microservices/absicherun
 
 "_Absicherung von Microservices mit OpenID Connect und Spring Security 5_"
 
+![JAX Session 2019](images/jax_session_info.png)
+
 This talk contains the following parts:
 
 1. Introduction to OAuth 2 and OpenID Connect 1.0
