@@ -1,0 +1,10 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'jax-openid-connect'
+
+include 'live-demos:client'
+include 'live-demos:resource-server'
+include 'live-demos:auth-code-demo'

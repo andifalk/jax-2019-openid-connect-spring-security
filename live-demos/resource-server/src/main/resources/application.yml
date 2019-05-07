@@ -1,0 +1,12 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8080/auth/realms/workshop
+
+server:
+  port: 9091
+  servlet:
+    context-path: /hello-server
+

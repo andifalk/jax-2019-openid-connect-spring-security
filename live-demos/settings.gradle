@@ -1,0 +1,10 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'live-demos'
+
+include 'client'
+include 'resource-server'
+include 'auth-code-demo'

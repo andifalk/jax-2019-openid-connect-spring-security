@@ -1,0 +1,25 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /hello-client
+  error:
+    include-stacktrace: never
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          keycloak:
+            client-id: 'hello-world'
+            client-secret: '9cedd643-d558-47b3-bc04-a7df2fdce2e4'
+            authorizationGrantType: authorization_code
+            redirect-uri: '{baseUrl}/login/oauth2/code/{registrationId}'
+        provider:
+          keycloak:
+            issuer-uri: http://localhost:8080/auth/realms/workshop
+            #authorization-uri: http://localhost:8080/auth/realms/workshop/protocol/openid-connect/auth
+            #token-uri: http://localhost:8080/auth/realms/workshop/protocol/openid-connect/token
+            #user-info-uri: http://localhost:8080/auth/realms/workshop/protocol/openid-connect/userinfo
+            #user-name-attribute: sub
+            #jwk-set-uri: http://localhost:8080/auth/realms/workshop/protocol/openid-connect/certs
