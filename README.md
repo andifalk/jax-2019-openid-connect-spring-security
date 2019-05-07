@@ -1,6 +1,6 @@
 # JAX 2019 (Mainz/Germany 07.05.2019)
 
-Talk and demos for JAX conference talk in Mainz on 07.05.2019 on the topic
+Talk and demos for [JAX conference talk](https://jax.de/microservices/absicherung-von-microservices-mit-openid-connect-und-spring-security-5/) in Mainz on 07.05.2019 on the topic
 
 "_Absicherung von Microservices mit OpenID Connect und Spring Security 5_"
 
@@ -12,7 +12,7 @@ This talk contains the following parts:
 
 ## Presentation
 
-[Presentation Slides (HTML5)](https://andifalk.github.io/jax-2019-openid-connect-spring-security)
+[Presentation Slides (HTML5)](https://andifalk.github.io/jax-2019-openid-connect-spring-security/index.html)
 
 ## Live Code Demo
 
