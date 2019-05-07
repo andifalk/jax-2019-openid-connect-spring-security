@@ -14,7 +14,7 @@ This talk contains the following parts:
 
 ## Presentation
 
-[Presentation Slides (HTML5)](https://andifalk.github.io/jax-2019-openid-connect-spring-security/index.html)
+[Presentation Slides (HTML5)](https://andifalk.github.io/jax-2019-openid-connect-spring-security)
 
 ## Live Code Demo
 
