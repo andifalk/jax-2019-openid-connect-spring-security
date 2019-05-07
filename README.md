@@ -1,20 +1,18 @@
-# OWASP chapter meeting (Munich/Germany 30.04.2019)
+# JAX 2019 (Mainz/Germany 07.05.2019)
 
-Talk and demos for OWASP chapter meeting in Munich on 30.4.2019 on the topic
+Talk and demos for JAX conference talk in Mainz on 07.05.2019 on the topic
 
-"_Securing Microservice with OAuth 2.0 and OpenID Connect 1.0_"
+"_Absicherung von Microservices mit OpenID Connect und Spring Security 5_"
 
 This talk contains the following parts:
 
 1. Introduction to OAuth 2 and OpenID Connect 1.0
-2. News from the 4. OAuth Security workshop 2019 in Stuttgart/Germany
+2. Discussions and Best Practices in OAuth 2.0 & OIDC
 3. Live Coding Demo for OAuth 2.0 & OpenID Connect with Spring Security 5
 
 ## Presentation
 
-[Presentation Slides (HTML5)](https://andifalk.github.io/owasp-chapter-munich-04-2019)
-
-[Presentation Slides (PDF)](https://github.com/andifalk/owasp-chapter-munich-04-2019/raw/master/OAuth_2_and_OpenID_Connect_OWASP%20Munich.pdf)
+[Presentation Slides (HTML5)](https://andifalk.github.io/jax-2019-openid-connect-spring-security)
 
 ## Live Code Demo
 
